@@ -35,6 +35,12 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "Licorice",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 8
     }
   ]
 }
